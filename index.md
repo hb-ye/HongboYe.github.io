@@ -8,7 +8,7 @@ You can find more about me on: [Google Scholar] (https://scholar.google.com/cita
 
 ### Contact
 
-Address: Department of Civil Engineerging and Industrial Design, University of Liverpool, Liverpool L69 3GQ, UK
+Department of Civil Engineerging and Industrial Design, University of Liverpool, Liverpool L69 3GQ, UK
 
 Email: hongbo_DOT_ye_AT_liverpool_DOT_ac_DOT_uk
 
@@ -23,10 +23,7 @@ Official webpage: [https://www.liverpool.ac.uk/engineering/staff/hongbo-ye/](htt
 2009, B.E. in Automation, University of Science and Technology of China</a> (USTC)
 
 
-# Header 1
-## Header 2
-### Header 3
-
+### Publications
  <ol reversed>
 		  <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <font color='blue'> Transportation Research Part C</font> 94, 220-235. Earlier version for poster presentation at <font color='blue'> ISTTT22</font>, Illinois, USA, 24-26 July, 2017.</li>
 		  <li><b>Ye, H.</b>, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <font color='blue'>Transportation Science</font> 51 (3), 968-980. </a> </li>
@@ -37,8 +34,15 @@ Official webpage: [https://www.liverpool.ac.uk/engineering/staff/hongbo-ye/](htt
           <li><b>Ye, H.</b>, Yang, H., Tan, Z.J.*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. <font color='blue'>Transportation Research Part B</font> 81, 794-807. Earlier version for lectern presentation at <font color='blue'>ISTTT21</font>, Japan, August 5-7, 2015.</li>
           <li>Yang, H., <strong>Ye, H.</strong>*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. <font color='blue'>Transportation Research Part C</font> 51, 260-273.</li>
           <li><strong>Ye, H.</strong>, Yang, H.*, 2013. Continuous price and flow dynamics of tradable mobility credits. <font color='blue'>Transportation Research Part B</font> 57, 436-450. Earlier version for lectern presentation at <font color='blue'>ISTTT20</font>, The Netherlands, July 17-19, 2013.</li>
-        </ol>
+</ol>
         
+
+```
+
+# Header 1
+## Header 2
+### Header 3
+
 - Bulleted
 - List
 
@@ -48,7 +52,6 @@ Official webpage: [https://www.liverpool.ac.uk/engineering/staff/hongbo-ye/](htt
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
