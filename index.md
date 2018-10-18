@@ -7,7 +7,9 @@ More about me on my: [University Webpage](https://www.liverpool.ac.uk/engineerin
 
 ## Contact
 
-Department of Civil Engineerging and Industrial Design, University of Liverpool, Liverpool L69 3GQ, UK
+Department of Civil Engineerging and Industrial Design
+
+University of Liverpool, Liverpool L69 3GQ, UK
 
 Email: hongbo_DOT_ye_AT_liverpool_DOT_ac_DOT_uk
 
@@ -54,5 +56,5 @@ University of Leeds
 ## Resources
 
 **List of Optimal Control Software**
-- GPOPS v5.1 [[download](doc/GPOPS/gpops51.zip)], v2.4 [download](doc/GPOPS/gpops24.zip), v2.1 [download](doc/GPOPS/gpops21.tgz), v1.1beta [download](doc/GPOPS/gpops1-1beta.zip) or [MATLAB File Exchange](http://mathworks.com/matlabcentral/fileexchange/21729-gpops)
+- GPOPS: v5.1 [[download](doc/GPOPS/gpops51.zip)], v2.4 [[download](doc/GPOPS/gpops24.zip)], v2.1 [[download](doc/GPOPS/gpops21.tgz)], v1.1beta [[download](doc/GPOPS/gpops1-1beta.zip) or [MATLAB File Exchange](http://mathworks.com/matlabcentral/fileexchange/21729-gpops)]
 - [GPOPS-II](http://www.gpops2.com/), [PSOPT](http://www.psopt.org), Bocop, dynopt, ICLOCS, Optragen, ...
