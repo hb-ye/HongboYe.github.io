@@ -1,19 +1,19 @@
-<title> Hongbo Ye </title>
-<header> Welcome to my personal webpage </header>
+Title: Hongbo Ye
+
+Welcome to my personal webpage!
 
 I have a broad spectrum of research interest in transport-related problems, with an aim to improve the system efficiency and sustainability to benefit both the travellers and the operators. In particular, I have combined quantitative modelling and analytical skills (such as optimisation, control theory and econometrics) extensively with transportation theories in the modelling and analysis of rail and road systems as well as their operation, management and control.
 
-More about me on: 
-[Official Webpage](https://www.liverpool.ac.uk/engineering/staff/hongbo-ye/) / [Google Scholar](https://scholar.google.co.uk/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
+More about me on my: [University Webpage](https://www.liverpool.ac.uk/engineering/staff/hongbo-ye/) / [Google Scholar](https://scholar.google.co.uk/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
 
 ### Contact
-
+```
 Department of Civil Engineerging and Industrial Design, University of Liverpool, Liverpool L69 3GQ, UK
 
 Email: hongbo_DOT_ye_AT_liverpool_DOT_ac_DOT_uk
 
 Tel: +44(0)151 794 5222
-
+```
 
 ### Education
 
@@ -31,8 +31,8 @@ Sep 2018 to date, Lecturer, Department of Civil Engineering and Industrial Desig
 
 ### Teaching
 University of Leeds
--TRAN5020M  Principles of Transport Modelling (MSc, Autumn 2017)
--TRAN5291M Traffic Network Modelling (MSc, Spring 2018)
+- TRAN5020M  Principles of Transport Modelling (MSc, Autumn 2017)
+- TRAN5291M Traffic Network Modelling (MSc, Spring 2018)
 
 
 ### Publications
@@ -47,24 +47,3 @@ University of Leeds
   <li>Yang, H., <strong>Ye, H.</strong>*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. <font color='blue'>Transportation Research Part C</font> 51, 260-273.</li>
   <li><strong>Ye, H.</strong>, Yang, H.*, 2013. Continuous price and flow dynamics of tradable mobility credits. <font color='blue'>Transportation Research Part B</font> 57, 436-450. Earlier version for lectern presentation at <font color='blue'>ISTTT20</font>, The Netherlands, July 17-19, 2013.</li>
 </ol>
-        
-
-```
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
