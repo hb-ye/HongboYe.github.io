@@ -4,7 +4,7 @@ I am a Lecturer in the Department of Civil Engineering and Industrial Design in 
 
 I have a broad spectrum of research interest in transport-related problems, with an aim to improve the system efficiency and sustainability to benefit both the travellers and the operators. In particular, I have combined quantitative modelling and analytical skills (such as optimisation, control theory and econometrics) extensively with transportation theories in the modelling and analysis of rail and road systems as well as their operation, management and control.
 
-You can find more about me on: [Google Scholar] (https://scholar.google.co.uk/citations?user=6LrbJcYAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
+You can find more about me on: [Google Scholar](https://scholar.google.co.uk/citations?user=6LrbJcYAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
 
 ### Contact
 
