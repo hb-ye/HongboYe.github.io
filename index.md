@@ -14,10 +14,7 @@ University of Liverpool, Liverpool L69 3GQ, UK
 :email: hongbo DOT ye AT liverpool DOT ac DOT uk
 
 :phone: +44(0)151 794 5222
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.fr/citations?user=J-DuZxoAAAAJ&hl=fr"
+
     
 ## Education
 
