@@ -24,16 +24,16 @@ Official webpage: [https://www.liverpool.ac.uk/engineering/staff/hongbo-ye/](htt
 
 
 ### Publications
- <ol reversed>
-		  <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <font color='blue'> Transportation Research Part C</font> 94, 220-235. Earlier version for poster presentation at <font color='blue'> ISTTT22</font>, Illinois, USA, 24-26 July, 2017.</li>
-		  <li><b>Ye, H.</b>, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <font color='blue'>Transportation Science</font> 51 (3), 968-980. </a> </li>
-		  <li><b>Ye, H.</b>, Liu, R.*, 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. <font color='blue'>Transportation Research Part C</font> 82, 102-123. <a href="doc/codes_YL2017.zip"style="color: inherit";>[Codes of Case Studies]</a> </li>
-          <li><b>Ye, H.</b>, Liu, R.*, 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. <font color='blue'> Transportation Research Part B</font> 93, 377-393.</li>
-          <li>Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <font color='blue'>Transportation Research Part B</font> 86, 86-103. <a href="doc/Errata_XYY2016.pdf" style="color: inherit";>[Errata]</a> </li>
-          <li>Wang, X.L.*, <b>Ye, H.</b>, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. <font color='blue'>Transportation Research Part E</font> 83, 51-64.</li>
-          <li><b>Ye, H.</b>, Yang, H., Tan, Z.J.*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. <font color='blue'>Transportation Research Part B</font> 81, 794-807. Earlier version for lectern presentation at <font color='blue'>ISTTT21</font>, Japan, August 5-7, 2015.</li>
-          <li>Yang, H., <strong>Ye, H.</strong>*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. <font color='blue'>Transportation Research Part C</font> 51, 260-273.</li>
-          <li><strong>Ye, H.</strong>, Yang, H.*, 2013. Continuous price and flow dynamics of tradable mobility credits. <font color='blue'>Transportation Research Part B</font> 57, 436-450. Earlier version for lectern presentation at <font color='blue'>ISTTT20</font>, The Netherlands, July 17-19, 2013.</li>
+<ol reversed>
+  <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <font color='blue'> Transportation Research Part C</font> 94, 220-235. Earlier version for poster presentation at <font color='blue'> ISTTT22</font>, Illinois, USA, 24-26 July, 2017.</li>
+  <li><b>Ye, H.</b>, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <font color='blue'>Transportation Science</font> 51 (3), 968-980. </li>
+   <li><b>Ye, H.</b>, Liu, R.*, 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. <font color='blue'>Transportation Research Part C</font> 82, 102-123. <a href="doc/codes_YL2017.zip"style="color: inherit";>[Codes of Case Studies]</li>
+  <li><b>Ye, H.</b>, Liu, R.*, 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. <font color='blue'> Transportation Research Part B</font> 93, 377-393.</li>
+  <li>Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <font color='blue'>Transportation Research Part B</font> 86, 86-103. <a href="doc/Errata_XYY2016.pdf" style="color: inherit";>[Errata]</li>
+  <li>Wang, X.L.*, <b>Ye, H.</b>, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. <font color='blue'>Transportation Research Part E</font> 83, 51-64.</li>
+  <li><b>Ye, H.</b>, Yang, H., Tan, Z.J.*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. <font color='blue'>Transportation Research Part B</font> 81, 794-807. Earlier version for lectern presentation at <font color='blue'>ISTTT21</font>, Japan, August 5-7, 2015.</li>
+  <li>Yang, H., <strong>Ye, H.</strong>*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. <font color='blue'>Transportation Research Part C</font> 51, 260-273.</li>
+  <li><strong>Ye, H.</strong>, Yang, H.*, 2013. Continuous price and flow dynamics of tradable mobility credits. <font color='blue'>Transportation Research Part B</font> 57, 436-450. Earlier version for lectern presentation at <font color='blue'>ISTTT20</font>, The Netherlands, July 17-19, 2013.</li>
 </ol>
         
 
