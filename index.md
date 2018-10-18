@@ -11,10 +11,14 @@ Department of Civil Engineerging and Industrial Design
 
 University of Liverpool, Liverpool L69 3GQ, UK
 
-Email: hongbo_DOT_ye_AT_liverpool_DOT_ac_DOT_uk
+:email: hongbo DOT ye AT liverpool DOT ac DOT uk
 
-Tel: +44(0)151 794 5222
-
+:phone: +44(0)151 794 5222
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.fr/citations?user=J-DuZxoAAAAJ&hl=fr"
+    
 ## Education
 
 2014, Ph.D. in Civil Engineering, The Hong Kong University of Science and Technology (HKUST)
