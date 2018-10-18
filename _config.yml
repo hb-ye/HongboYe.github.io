@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Hongbo Ye
 description: Lecturer, University of Liverpool
+plugins:
+  - jemoji
