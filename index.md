@@ -1,4 +1,3 @@
-Title: Hongbo Ye
 
 Welcome to my personal webpage!
 
@@ -6,22 +5,21 @@ I have a broad spectrum of research interest in transport-related problems, with
 
 More about me on my: [University Webpage](https://www.liverpool.ac.uk/engineering/staff/hongbo-ye/) / [Google Scholar](https://scholar.google.co.uk/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
 
-### Contact
-```
+## Contact
+
 Department of Civil Engineerging and Industrial Design, University of Liverpool, Liverpool L69 3GQ, UK
 
 Email: hongbo_DOT_ye_AT_liverpool_DOT_ac_DOT_uk
 
 Tel: +44(0)151 794 5222
-```
 
-### Education
+## Education
 
 2014, Ph.D. in Civil Engineering, The Hong Kong University of Science and Technology (HKUST)
 
 2009, B.E. in Automation, University of Science and Technology of China (USTC)
 
-### Work Experience
+## Work Experience
 
 Sep 2018 to date, Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool
 
@@ -29,13 +27,18 @@ Sep 2018 to date, Lecturer, Department of Civil Engineering and Industrial Desig
 
 2014-2015, Research Associate, Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
 
-### Teaching
+## Teaching
 University of Leeds
 - TRAN5020M  Principles of Transport Modelling (MSc, Autumn 2017)
 - TRAN5291M Traffic Network Modelling (MSc, Spring 2018)
 
+## Research Interest
+- Railway Simulation
+- Railway Management and Train Eco-Driving
+- Transport and Traffic Day-to-Day Dynamics
+- Transportation Network Modeling and Management
 
-### Publications
+## Publications
 <ol reversed>
   <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <font color='blue'> Transportation Research Part C</font> 94, 220-235. Earlier version for poster presentation at <font color='blue'> ISTTT22</font>, Illinois, USA, 24-26 July, 2017.</li>
   <li><b>Ye, H.</b>, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <font color='blue'>Transportation Science</font> 51 (3), 968-980. </li>
@@ -47,3 +50,9 @@ University of Leeds
   <li>Yang, H., <strong>Ye, H.</strong>*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. <font color='blue'>Transportation Research Part C</font> 51, 260-273.</li>
   <li><strong>Ye, H.</strong>, Yang, H.*, 2013. Continuous price and flow dynamics of tradable mobility credits. <font color='blue'>Transportation Research Part B</font> 57, 436-450. Earlier version for lectern presentation at <font color='blue'>ISTTT20</font>, The Netherlands, July 17-19, 2013.</li>
 </ol>
+
+## Resources
+
+**List of Optimal Control Software**
+- GPOPS v5.1 [download](doc/GPOPS/gpops51.zip), v2.4 [download](doc/GPOPS/gpops24.zip), v2.1 [download](doc/GPOPS/gpops21.tgz), v1.1beta [download](doc/GPOPS/gpops1-1beta.zip) or [MATLAB File Exchange](http://mathworks.com/matlabcentral/fileexchange/21729-gpops)
+- [GPOPS-II](http://www.gpops2.com/), [PSOPT](http://www.psopt.org), Bocop, dynopt, ICLOCS, Optragen, ...
