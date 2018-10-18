@@ -7,9 +7,8 @@ More about me on my: [University Webpage](https://www.liverpool.ac.uk/engineerin
 
 ## Contact
 
-Department of Civil Engineerging and Industrial Design
-
-University of Liverpool, Liverpool L69 3GQ, UK
+:office: Department of Civil Engineerging and Industrial Design, 
+    University of Liverpool, Liverpool L69 3GQ, UK
 
 :email: hongbo DOT ye AT liverpool DOT ac DOT uk
 
