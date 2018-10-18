@@ -27,16 +27,16 @@ Sep 2018 to date, Lecturer, Department of Civil Engineering and Industrial Desig
 
 2014-2015, Research Associate, Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
 
-## Teaching
-University of Leeds
-- TRAN5020M  Principles of Transport Modelling (MSc, Autumn 2017)
-- TRAN5291M Traffic Network Modelling (MSc, Spring 2018)
-
 ## Research Interest
 - Railway Simulation
 - Railway Management and Train Eco-Driving
 - Transport and Traffic Day-to-Day Dynamics
 - Transportation Network Modeling and Management
+
+## Teaching
+University of Leeds
+- TRAN5020M  Principles of Transport Modelling (MSc, Autumn 2017)
+- TRAN5291M Traffic Network Modelling (MSc, Spring 2018)
 
 ## Publications
 <ol reversed>
@@ -54,5 +54,5 @@ University of Leeds
 ## Resources
 
 **List of Optimal Control Software**
-- GPOPS v5.1 [download](doc/GPOPS/gpops51.zip), v2.4 [download](doc/GPOPS/gpops24.zip), v2.1 [download](doc/GPOPS/gpops21.tgz), v1.1beta [download](doc/GPOPS/gpops1-1beta.zip) or [MATLAB File Exchange](http://mathworks.com/matlabcentral/fileexchange/21729-gpops)
+- GPOPS v5.1 [[download](doc/GPOPS/gpops51.zip)], v2.4 [download](doc/GPOPS/gpops24.zip), v2.1 [download](doc/GPOPS/gpops21.tgz), v1.1beta [download](doc/GPOPS/gpops1-1beta.zip) or [MATLAB File Exchange](http://mathworks.com/matlabcentral/fileexchange/21729-gpops)
 - [GPOPS-II](http://www.gpops2.com/), [PSOPT](http://www.psopt.org), Bocop, dynopt, ICLOCS, Optragen, ...
