@@ -1,5 +1,5 @@
 
-<header><link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/></header>
+<header><link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"></header>
 
 Welcome to my personal webpage!
 
