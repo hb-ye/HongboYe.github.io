@@ -23,7 +23,7 @@ Tel: +44(0)151 794 5222
 
 ## Work Experience
 
-Sep 2018 to date, Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool
+Sep 2018 - , Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool
 
 2015-2018, Research Fellow, Institute for Transport Studies, University of Leeds
 
