@@ -35,9 +35,15 @@ More about me can be found on my [University Webpage](https://www.liverpool.ac.u
 - Transportation Network Modeling and Management
 
 ## Teaching
+
+University of Liverpool
+- CIVE285 Programming for Civil and Architectural Engineers
+- CIVE185 Introduction to Statistics and Programming for Engineers
+- CIVE170 Introduction to Digital Built Environment
+
 University of Leeds
-- TRAN5020M  Principles of Transport Modelling (MSc, Autumn 2017)
-- TRAN5291M Traffic Network Modelling (MSc, Spring 2018)
+- TRAN5020M  Principles of Transport Modelling
+- TRAN5291M Traffic Network Modelling
 
 ## Publications
 <ol reversed>
