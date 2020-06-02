@@ -29,23 +29,22 @@ More about me can be found on my [University Webpage](https://www.liverpool.ac.u
 2014-2015, Research Associate, Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
 
 ## Research Interest
-- Railway Simulation
-- Railway Management and Train Eco-Driving
-- Transport and Traffic Day-to-Day Dynamics
-- Transportation Network Modeling and Management
+- Transportation network modeling, management and optimization
+- Day-to-day traffic flow dynamics
+- Railway scheduling and train eco-driving
 
 ## Teaching
 
 University of Liverpool
-- CIVE285 Programming for Civil and Architectural Engineers
-- CIVE185 Introduction to Statistics and Programming for Engineers
 - CIVE170 Introduction to Digital Built Environment
+- CIVE185 Introduction to Statistics and Programming for Engineers
+- CIVE285 Programming for Civil and Architectural Engineers
 
 University of Leeds
 - TRAN5020M  Principles of Transport Modelling
 - TRAN5291M Traffic Network Modelling
 
-## Publications
+## Publications and Source Code
 <ol reversed>
   <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <font color='blue'> Transportation Research Part C</font> 94, 220-235. Earlier version for poster presentation at <font color='blue'> ISTTT22</font>, Illinois, USA, 24-26 July, 2017.</li>
   <li><b>Ye, H.</b>, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <font color='blue'>Transportation Science</font> 51 (3), 968-980. </li>
