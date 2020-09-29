@@ -35,6 +35,7 @@ Phone: +852 2300 xxxx
 2014-2015, Research Associate, Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
 
 ## Research Interest
+
 Transportation network modeling, management and optimization
 Day-to-day traffic flow dynamics
 Railway operation and control
