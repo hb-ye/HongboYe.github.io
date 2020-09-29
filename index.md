@@ -35,20 +35,20 @@ Phone: +852 2300 xxxx
 2014-2015, Research Associate, Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology
 
 ## Research Interest
-- Transportation network modeling, management and optimization
-- Day-to-day traffic flow dynamics
-- Railway operation and control
-- Eco-driving (trains and cars)
+Transportation network modeling, management and optimization
+Day-to-day traffic flow dynamics
+Railway operation and control
+Eco-driving (trains and cars)
 
 ## Teaching
 
 Hong Kong Polytechnic University
-- EE4014 Intelligent Systems Applications in Electrical Engineering
+    EE4014 Intelligent Systems Applications in Electrical Engineering
 
 University of Liverpool
-- CIVE170 Introduction to Digital Built Environment
-- CIVE185 Introduction to Statistics and Programming for Engineers
-- CIVE285 Programming for Civil and Architectural Engineers
+    CIVE170 Introduction to Digital Built Environment
+    CIVE185 Introduction to Statistics and Programming for Engineers
+    CIVE285 Programming for Civil and Architectural Engineers
 
 University of Leeds
 - TRAN5020M Principles of Transport Modelling
