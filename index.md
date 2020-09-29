@@ -31,14 +31,24 @@ Phone: +852 2300 xxxx
  2015-2018 | Research Fellow, Institute for Transport Studies, University of Leeds 
  2014-2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology
 
-
-09/2020 - , Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University
-
-2018-2020, Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool
-
-2015-2018, Research Fellow, Institute for Transport Studies, University of Leeds
-
-2014-2015, Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology
+<table style="width:100%">
+  <tr>
+    <td> 09/2020 - </th>
+    <td> Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University </th>
+  </tr>
+  <tr>
+    <td> 2018-2020 </td>
+    <td> Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool </td>
+  </tr>
+  <tr>
+    <td> 2015-2018 </td>
+    <td> Research Fellow, Institute for Transport Studies, University of Leeds </td>
+  </tr>
+  <tr>
+    <td> 2014-2015 </td>
+    <td> Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology </td>
+  </tr>
+</table>
 
 ## Research Interest
 
@@ -70,8 +80,8 @@ University of Leeds
 
 ## Publications and Source Code
 <ol reversed>
-    <li>`Ye, H.`, Xiao, F.*, Yang, H., 2020. Day-to-day dynamics with advanced traveler information. `Transportation Research Part B` (accepted)</li>
-    <li>`Ye, H.`, Xiao, F.*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. ` Transportation Research Part C` 94, 220-235. Earlier version for poster presentation at <b> ISTTT22</b>, Illinois, USA, 24-26 July, 2017.</li>
+    <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2020. Day-to-day dynamics with advanced traveler information. <b>Transportation Research Part B</b> (accepted)</li>
+    <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <b>Transportation Research Part C</b> 94, 220-235. Earlier version for poster presentation at <b> ISTTT22</b>, Illinois, USA, 24-26 July, 2017.</li>
     <li><b>Ye, H.</b>, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <b>Transportation Science</b> 51 (3), 968-980. </li>
     <li><b>Ye, H.</b>, Liu, R.*, 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. <b>Transportation Research Part C</b> 82, 102-123. [Codes of Case Studies](/docs/2017YL_codes.zip)</li>
     <li><b>Ye, H.</b>, Liu, R.*, 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. <b> Transportation Research Part B</b> 93, 377-393.</li>
