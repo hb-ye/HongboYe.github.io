@@ -26,7 +26,12 @@ Phone: +852 2300 xxxx
 
 ## Work Experience
 
-<table style="width:100%">
+<table style="width:100%" class="noBorder">
+  <colgroup>
+    <col style="width: 120px;">
+    <col>
+  </colgroup>
+    
   <tr>
     <td> 09/2020 - </td>
     <td> Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University </td>
@@ -70,8 +75,10 @@ University of Liverpool
     CIVE285 Programming for Civil and Architectural Engineers
 
 University of Leeds
-- TRAN5020M Principles of Transport Modelling
-- TRAN5291M Traffic Network Modelling
+    
+    TRAN5020M Principles of Transport Modelling
+    
+    TRAN5291M Traffic Network Modelling
 
 ## Publications and Source Code
 <ol reversed>
