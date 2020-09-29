@@ -7,15 +7,15 @@ I have a broad spectrum of research interest in transport-related problems, with
 
 I am welcoming visiting students/scholars and PhD applications in the areas which fits my research interest and expertise. Please drop me an email if you are interested.
 
-More about me can be found on my [University Webpage]() / [Google Scholar](https://scholar.google.com/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
+More about me can be found on my [University Webpage](http://www.ee.polyu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
 
 ## Contact
 
-:office: CF606, Department of Electrical Engineering, 6/F Tang Ping Yuan Building, Hong Kong Polytechnic University, Kowloon, Hong Kong
+Office: CF606, Department of Electrical Engineering, 6/F Tang Ping Yuan Building, Hong Kong Polytechnic University, Kowloon, Hong Kong
 
-:email: hongbo DOT ye AT polyu DOT edu DOT hk
+Email: hongbo DOT ye AT polyu DOT edu DOT hk
 
-:phone: +852 2300 xxxx
+Phone: +852 2300 xxxx
 
     
 ## Education
