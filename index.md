@@ -26,25 +26,25 @@ Phone: +852 2300 xxxx
 
 ## Work Experience
 
-<table style="width:100%" class="noBorder">
+<table style="width:100%" border="0">
   <colgroup>
     <col style="width: 120px;">
     <col>
   </colgroup>
     
-  <tr>
+  <tr valign="top">
     <td> 09/2020 - </td>
     <td> Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University </td>
   </tr>
-  <tr>
+  <tr valign="top">
     <td> 2018-2020 </td>
     <td> Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool </td>
   </tr>
-  <tr>
+  <tr valign="top">
     <td> 2015-2018 </td>
     <td> Research Fellow, Institute for Transport Studies, University of Leeds </td>
   </tr>
-  <tr>
+  <tr valign="top">
     <td> 2014-2015 </td>
     <td> Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology </td>
   </tr>
