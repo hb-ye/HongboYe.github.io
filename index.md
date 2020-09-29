@@ -26,10 +26,10 @@ Phone: +852 2300 xxxx
 
 ## Work Experience
 
-| 09/2020 - | Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University |
-| 2018-2020 | Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool |
-| 2015-2018 | Research Fellow, Institute for Transport Studies, University of Leeds |
-| 2014-2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology|
+ 09/2020 - | Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University 
+ 2018-2020 | Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool 
+ 2015-2018 | Research Fellow, Institute for Transport Studies, University of Leeds 
+ 2014-2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology
 
 
 09/2020 - , Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University
