@@ -51,18 +51,18 @@ Phone: +852 3400 3337
 </table>
 
 {:class="table table-borderless"}
+
 | 09/2020 -   | Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University  |
 | 2018 - 2020 | Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool |
 | 2015 - 2018 | Research Fellow, Institute for Transport Studies, University of Leeds |
 | 2014 - 2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology |
-{:class="table table-borderless"}
 
 {:table-borderless}
+
 | 09/2020 -   | Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University  |
 | 2018 - 2020 | Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool |
 | 2015 - 2018 | Research Fellow, Institute for Transport Studies, University of Leeds |
 | 2014 - 2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology |
-{:table-borderless}
 
 ## Research Interest
 
@@ -78,21 +78,21 @@ Eco-driving (trains and cars)
 
 - Hong Kong Polytechnic University
 
-    EE4014 Intelligent Systems Applications in Electrical Engineering
+        EE4014 Intelligent Systems Applications in Electrical Engineering
 
 - University of Liverpool
     
-    CIVE170 Introduction to Digital Built Environment
-    
-    CIVE185 Introduction to Statistics and Programming for Engineers
-    
-    CIVE285 Programming for Civil and Architectural Engineers
+        CIVE170 Introduction to Digital Built Environment
+
+        CIVE185 Introduction to Statistics and Programming for Engineers
+
+        CIVE285 Programming for Civil and Architectural Engineers
 
 - University of Leeds
     
-    TRAN5020M Principles of Transport Modelling
-    
-    TRAN5291M Traffic Network Modelling
+        TRAN5020M Principles of Transport Modelling
+
+        TRAN5291M Traffic Network Modelling
 
 ## Publications and Source Code
 
