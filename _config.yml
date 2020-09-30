@@ -1,5 +1,4 @@
-# theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 title: Hongbo Ye
 description: Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University
 #plugins:
@@ -8,3 +7,35 @@ description: Research Assistant Professor, Department of Electrical Engineering,
 orcid: 0000-0001-9446-8787
 researchgate: hongbo_ye
 googlescholar: 6LrbJcYAAAAJ&hl
+author:
+#  name             : "Hongbo Ye"
+#  avatar           : ""
+#  bio              : ""
+#  location         : ""
+  email            : hongbo DOT ye
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
+  github           : 
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  googlescholar    : "https://scholar.google.com/citations?user=6LrbJcYAAAAJ"
+  researchgate     : 
+  
