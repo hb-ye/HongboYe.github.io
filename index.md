@@ -72,7 +72,7 @@ Eco-driving (trains and cars)
 
 - University of Leeds
     
-    * Principles of Transport Modelling
+    * TRAN5020M Principles of Transport Modelling
     * TRAN5291M Traffic Network Modelling
 
 ## Publications and Source Code
