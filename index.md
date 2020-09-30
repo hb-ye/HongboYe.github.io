@@ -26,7 +26,7 @@ Phone: +852 3400 3337
 
 ## Work Experience
 
-<table style="width:100%; border: 0">
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <colgroup>
     <col style="width: 120px" border="0">
     <col>
@@ -92,7 +92,7 @@ University of Leeds
 5. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [[Errata](docs/2016XYY_Errata.pdf)]
 4. Wang, X.L.\*, **Ye, H.**, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. **Transportation Research Part E** 83, 51-64.
 3. **Ye, H.**, Yang, H., Tan, Z.J.\*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. **Transportation Research Part B** 81, 794-807, and **ISTTT21** (lectern), Japan, August 5-7, 2015.
-2. Yang, H., **Ye, H.**, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. **Transportation Research Part C** 51, 260-273.
+2. Yang, H., **Ye, H.**\*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. **Transportation Research Part C** 51, 260-273.
 1. <strong>Ye, H.</strong>, Yang, H.\*, 2013. Continuous price and flow dynamics of tradable mobility credits. **Transportation Research Part B** 57, 436-450, and **ISTTT20** (lectern), The Netherlands, July 17-19, 2013.
 
 
