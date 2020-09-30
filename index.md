@@ -76,11 +76,11 @@ Eco-driving (trains and cars)
 
 ## Teaching
 
-Hong Kong Polytechnic University
+- Hong Kong Polytechnic University
 
     EE4014 Intelligent Systems Applications in Electrical Engineering
 
-University of Liverpool
+- University of Liverpool
     
     CIVE170 Introduction to Digital Built Environment
     
@@ -88,7 +88,7 @@ University of Liverpool
     
     CIVE285 Programming for Civil and Architectural Engineers
 
-University of Leeds
+- University of Leeds
     
     TRAN5020M Principles of Transport Modelling
     
