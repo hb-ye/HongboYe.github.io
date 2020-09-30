@@ -7,7 +7,7 @@ I have a broad spectrum of research interest in transport-related problems, with
 
 I am welcoming visiting students/scholars and PhD applications in the areas which fits my research interest and expertise. Please drop me an email if you are interested.
 
-More about me can be found on my [University Webpage](http://www.ee.polyu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
+More information on [University Webpage](http://www.ee.polyu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
 
 ## Contact
 
@@ -88,7 +88,7 @@ University of Leeds
 9. **Ye, H.**, Xiao, F.\*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. **Transportation Research Part C** 94, 220-235. Earlier version for poster presentation at ** ISTTT22**, Illinois, USA, 24-26 July, 2017.
 8. **Ye, H.**, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. **Transportation Science** 51 (3), 968-980. 
 7. **Ye, H.**, Liu, R.\*, 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. **Transportation Research Part C** 82, 102-123. [[Codes of Case Studies](docs/2017YL_codes.zip)]
-6. **Ye, H.**, Liu, R.\*, 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. ** Transportation Research Part B** 93, 377-393.
+6. **Ye, H.**, Liu, R.\*, 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. **Transportation Research Part B** 93, 377-393.
 5. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [[Errata](docs/2016XYY_Errata.pdf)]
 4. Wang, X.L.\*, **Ye, H.**, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. **Transportation Research Part E** 83, 51-64.
 3. **Ye, H.**, Yang, H., Tan, Z.J.\*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. **Transportation Research Part B** 81, 794-807. Earlier version for lectern presentation at **ISTTT21**, Japan, August 5-7, 2015.
