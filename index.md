@@ -120,9 +120,27 @@ University of Leeds
 3. Xiao, Fx.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
 </ol>
 
+<ol reversed>
+
+1. Xiao, F.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
+
+2. Xiao, F.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
+
+3. Xiao, Fx.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
+</ol>
+
 {: reversed="reversed"}
+
 1. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
 2. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
+3. Xiao, Fx.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
+
+{: reversed="reversed"}
+
+1. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
+
+2. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
+
 3. Xiao, Fx.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
 
 ## Resources
