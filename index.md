@@ -15,7 +15,7 @@ Office: CF606, Department of Electrical Engineering, 6/F Tang Ping Yuan Building
 
 Email: hongbo DOT ye AT polyu DOT edu DOT hk
 
-Phone: +852 2300 xxxx
+Phone: +852 3400 3337
 
     
 ## Education
@@ -26,9 +26,9 @@ Phone: +852 2300 xxxx
 
 ## Work Experience
 
-<table style="width:100%" border="0">
+<table style="width:100%; border: 0">
   <colgroup>
-    <col style="width: 120px;">
+    <col style="width: 120px" border="0">
     <col>
   </colgroup>
     
