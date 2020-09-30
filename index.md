@@ -32,13 +32,13 @@ Phone: +852 3400 3337
     <col>
   </colgroup>
     
-  <tr valign="top">
-    <td> 09/2020 - </td>
-    <td> Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University </td>
+  <tr valign="top" style="border-collapse: collapse; border: none;">
+    <td style="border-collapse: collapse; border: none;"> 09/2020 - </td>
+    <td style="border-collapse: collapse; border: none;"> Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University </td>
   </tr>
-  <tr valign="top">
-    <td> 2018-2020 </td>
-    <td> Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool </td>
+  <tr valign="top" style="border-collapse: collapse; border: none;">
+    <td style="border-collapse: collapse; border: none;"> 2018-2020 </td>
+    <td style="border-collapse: collapse; border: none;"> Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool </td>
   </tr>
   <tr valign="top">
     <td> 2015-2018 </td>
