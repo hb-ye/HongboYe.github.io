@@ -26,19 +26,19 @@ Phone: +852 3400 3337
 
 ## Work Experience
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table style="width: 100%; border: none;">
   <colgroup>
     <col style="width: 120px" border="0">
     <col>
   </colgroup>
     
-  <tr valign="top" style="border-collapse: collapse; border: none;">
-    <td style="border-collapse: collapse; border: none;"> 09/2020 - </td>
-    <td style="border-collapse: collapse; border: none;"> Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University </td>
+  <tr valign="top" style="border: none;">
+    <td style="border: none;"> 09/2020 - </td>
+    <td style="border: none;"> Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University </td>
   </tr>
-  <tr valign="top" style="border-collapse: collapse; border: none;">
-    <td style="border-collapse: collapse; border: none;"> 2018-2020 </td>
-    <td style="border-collapse: collapse; border: none;"> Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool </td>
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> 2018-2020 </td>
+    <td style="border: none;"> Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool </td>
   </tr>
   <tr valign="top">
     <td> 2015-2018 </td>
@@ -50,30 +50,19 @@ Phone: +852 3400 3337
   </tr>
 </table>
 
-.table, .th, td{
-    border-collapse: collapse;
-    border: none;
-}
-
-.table{
-    width: 100%;
-}
-
-.td{
-    width: 120px
-}
-
-09/2020 -   | Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University 
-2018 - 2020 | Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool
-2015 - 2018 | Research Fellow, Institute for Transport Studies, University of Leeds
-2014 - 2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology
-
 {:class="table table-borderless"}
 | 09/2020 -   | Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University  |
 | 2018 - 2020 | Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool |
 | 2015 - 2018 | Research Fellow, Institute for Transport Studies, University of Leeds |
 | 2014 - 2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology |
+{:class="table table-borderless"}
 
+{:table-borderless}
+| 09/2020 -   | Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University  |
+| 2018 - 2020 | Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool |
+| 2015 - 2018 | Research Fellow, Institute for Transport Studies, University of Leeds |
+| 2014 - 2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology |
+{:table-borderless}
 
 ## Research Interest
 
