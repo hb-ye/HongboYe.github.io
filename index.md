@@ -81,67 +81,20 @@ University of Leeds
     TRAN5291M Traffic Network Modelling
 
 ## Publications and Source Code
-<ol reversed>
-    <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2020. Day-to-day dynamics with advanced traveler information. <b>Transportation Research Part B</b> (accepted)</li>
-    <li><b>Ye, H.</b>, Xiao, F.*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. <b>Transportation Research Part C</b> 94, 220-235. Earlier version for poster presentation at <b> ISTTT22</b>, Illinois, USA, 24-26 July, 2017.</li>
-    <li><b>Ye, H.</b>, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. <b>Transportation Science</b> 51 (3), 968-980. </li>
-    <li><b>Ye, H.</b>, Liu, R.*, 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. <b>Transportation Research Part C</b> 82, 102-123. [Codes of Case Studies](docs/2017YL_codes.zip)</li>
-    <li><b>Ye, H.</b>, Liu, R.*, 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. <b> Transportation Research Part B</b> 93, 377-393.</li>
-    <li>Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)</li>
-    <li>Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)</li>
-    1. Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-    2. Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-    3. Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
-    <li>Wang, X.L.*, <b>Ye, H.</b>, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. <b>Transportation Research Part E</b> 83, 51-64.</li>
-    <li><b>Ye, H.</b>, Yang, H., Tan, Z.J.*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. <b>Transportation Research Part B</b> 81, 794-807. Earlier version for lectern presentation at <b>ISTTT21</b>, Japan, August 5-7, 2015.</li>
-    <li>Yang, H., <strong>Ye, H.</strong>*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. <b>Transportation Research Part C</b> 51, 260-273.</li>
-    <li><strong>Ye, H.</strong>, Yang, H.*, 2013. Continuous price and flow dynamics of tradable mobility credits. <b>Transportation Research Part B</b> 57, 436-450. Earlier version for lectern presentation at <b>ISTTT20</b>, The Netherlands, July 17-19, 2013.</li>
-</ol>
-
-## Publications and Source Code
-<ol reversed>
-    <li>Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)</li>
-    <li>Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)</li>
-    <li><b>Ye, H.</b>, Yang, H., Tan, Z.J.*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. <b>Transportation Research Part B</b> 81, 794-807. Earlier version for lectern presentation at <b>ISTTT21</b>, Japan, August 5-7, 2015.</li>
-    <li><b>Ye, H.</b>, Yang, H.*, 2013. Continuous price and flow dynamics of tradable mobility credits. <b>Transportation Research Part B</b> 57, 436-450. Earlier version for lectern presentation at <b>ISTTT20</b>, The Netherlands, July 17-19, 2013.</li>
-</ol>
-
-## Publications and Source Code
-<ol reversed>
-    1. Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-    2. Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
-    3. Xiao, F.*, Yang, H., <b>Ye, H.</b>, 2016. Physics of day-to-day network flow dynamics. <b>Transportation Research Part B</b> 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-</ol>
-
-## Publications and Source Code
-<ol reversed>
-1. Xiao, F.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-2. Xiao, F.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
-3. Xiao, Fx.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-</ol>
-
-<ol reversed>
-
-1. Xiao, F.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-
-2. Xiao, F.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
-
-3. Xiao, Fx.*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-</ol>
 
 {: reversed="reversed"}
 
-1. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-2. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
-3. Xiao, Fx.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
+10. **Ye, H.**, Xiao, F.\*, Yang, H., 2020. Day-to-day dynamics with advanced traveler information. **Transportation Research Part B** (accepted)
+9. **Ye, H.**, Xiao, F.\*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. **Transportation Research Part C** 94, 220-235. Earlier version for poster presentation at ** ISTTT22**, Illinois, USA, 24-26 July, 2017.
+8. **Ye, H.**, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. **Transportation Science** 51 (3), 968-980. 
+7. **Ye, H.**, Liu, R.\*, 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. **Transportation Research Part C** 82, 102-123. [[Codes of Case Studies](docs/2017YL_codes.zip)]
+6. **Ye, H.**, Liu, R.\*, 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. ** Transportation Research Part B** 93, 377-393.
+5. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [[Errata](docs/2016XYY_Errata.pdf)]
+4. Wang, X.L.\*, **Ye, H.**, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. **Transportation Research Part E** 83, 51-64.
+3. **Ye, H.**, Yang, H., Tan, Z.J.\*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. **Transportation Research Part B** 81, 794-807. Earlier version for lectern presentation at **ISTTT21**, Japan, August 5-7, 2015.
+2. Yang, H., **Ye, H.**, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. **Transportation Research Part C** 51, 260-273.
+1. <strong>Ye, H.</strong>, Yang, H.\*, 2013. Continuous price and flow dynamics of tradable mobility credits. **Transportation Research Part B** 57, 436-450. Earlier version for lectern presentation at **ISTTT20**, The Netherlands, July 17-19, 2013.
 
-{: reversed="reversed"}
-
-1. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
-
-2. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](docs/2016XYY_Errata.pdf)
-
-3. Xiao, Fx.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [Errata](/docs/2016XYY_Errata.pdf)
 
 ## Resources
 
