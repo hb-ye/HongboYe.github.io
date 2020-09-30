@@ -1,8 +1,6 @@
 
 Welcome to my personal webpage!
 
-I am currently a Research Assistant Professor at Hong Kong Polytechnic University.
-
 I have a broad spectrum of research interest in transport-related problems, with an aim to improve the system efficiency and sustainability to benefit both the travellers and the operators.  I have utilized optimisation and control theory in the modelling and analysis of rail and road systems as well as their operation, management and control.
 
 I am welcoming visiting students/scholars and PhD applications in the areas which fits my research interest and expertise. Please drop me an email if you are interested.
@@ -98,3 +96,4 @@ Eco-driving (trains and cars)
 **List of Optimal Control Software**
 - GPOPS: [v5.1](docs/GPOPS/gpops51.zip), [v2.4](docs/GPOPS/gpops24.zip), [v2.1](docs/GPOPS/gpops21.tgz), [v1.1beta](docs/GPOPS/gpops1-1beta.zip) (or via [MATLAB File Exchange](http://mathworks.com/matlabcentral/fileexchange/21729-gpops))
 - [GPOPS-II](http://www.gpops2.com/), [PSOPT](http://www.psopt.org), Bocop, dynopt, ICLOCS, Optragen, ...
+
