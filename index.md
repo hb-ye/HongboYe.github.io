@@ -50,13 +50,6 @@ Phone: +852 3400 3337
   </tr>
 </table>
 
-{: class="table-borderless"}
-
-| 09/2020 -   | Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University  |
-| 2018 - 2020 | Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool |
-| 2015 - 2018 | Research Fellow, Institute for Transport Studies, University of Leeds |
-| 2014 - 2015 | Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology |
-
 ## Research Interest
 
 Transportation network modeling, management and optimization
@@ -106,5 +99,5 @@ Eco-driving (trains and cars)
 ## Resources
 
 **List of Optimal Control Software**
-- GPOPS: v5.1 [[download](docs/GPOPS/gpops51.zip)], v2.4 [[download](docs/GPOPS/gpops24.zip)], v2.1 [[download](docs/GPOPS/gpops21.tgz)], v1.1beta [[download](docs/GPOPS/gpops1-1beta.zip) or [MATLAB File Exchange](http://mathworks.com/matlabcentral/fileexchange/21729-gpops)]
+- GPOPS: [v5.1](docs/GPOPS/gpops51.zip), [v2.4](docs/GPOPS/gpops24.zip), [v2.1](docs/GPOPS/gpops21.tgz), [v1.1beta](docs/GPOPS/gpops1-1beta.zip) (or via [MATLAB File Exchange](http://mathworks.com/matlabcentral/fileexchange/21729-gpops))
 - [GPOPS-II](http://www.gpops2.com/), [PSOPT](http://www.psopt.org), Bocop, dynopt, ICLOCS, Optragen, ...
