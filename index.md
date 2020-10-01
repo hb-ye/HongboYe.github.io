@@ -80,15 +80,15 @@ Eco-driving (trains and cars)
 {: reversed="reversed"}
 
 10. **Ye, H.**, Xiao, F.\*, Yang, H., 2020. Day-to-day dynamics with advanced traveler information. **Transportation Research Part B** (accepted)
-9. **Ye, H.**, Xiao, F.\*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. **Transportation Research Part C** 94, 220-235, and **ISTTT22** (poster), Illinois, USA, 24-26 July, 2017.
+9. **Ye, H.**, Xiao, F.\*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. **Transportation Research Part C** 94, 220-235, and **ISTTT22** (poster), Illinois, USA, 2017.
 8. **Ye, H.**, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. **Transportation Science** 51 (3), 968-980. 
 7. **Ye, H.**, Liu, R.\*, 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. **Transportation Research Part C** 82, 102-123. [[Codes of Case Studies](docs/2017YL_codes.zip)]
 6. **Ye, H.**, Liu, R.\*, 2016. A multiphase optimal control method for multi-train control and scheduling on railway lines. **Transportation Research Part B** 93, 377-393.
 5. Xiao, F.\*, Yang, H., **Ye, H.**, 2016. Physics of day-to-day network flow dynamics. **Transportation Research Part B** 86, 86-103. [[Errata](docs/2016XYY_Errata.pdf)]
 4. Wang, X.L.\*, **Ye, H.**, Yang, H., 2015. Decentralizing Pareto-efficient network flow/speed patterns with hybrid schemes of speed limit and road pricing. **Transportation Research Part E** 83, 51-64.
-3. **Ye, H.**, Yang, H., Tan, Z.J.\*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. **Transportation Research Part B** 81, 794-807, and **ISTTT21** (lectern), Japan, August 5-7, 2015.
-2. Yang, H., **Ye, H.**\*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. **Transportation Research Part C** 51, 260-273.
-1. <strong>Ye, H.</strong>, Yang, H.\*, 2013. Continuous price and flow dynamics of tradable mobility credits. **Transportation Research Part B** 57, 436-450, and **ISTTT20** (lectern), The Netherlands, July 17-19, 2013.
+3. **Ye, H.**, Yang, H., Tan, Z.J.\*, 2015. Learning marginal-cost pricing via a trial-and-error procedure with day-to-day flow dynamics. **Transportation Research Part B** 81, 794-807, and **ISTTT21** (lectern), Japan, 2015. 
+2. Yang, H., **Ye, H.**\*, Li, X., Zhao, B., 2015. Speed limits, speed selection and network equilibrium. **Transportation Research Part C** 51, 260-273. [[Errata](docs/2015YYLZ_Errata.pdf)] [[Codes of Case Studies](docs/2015YYLZ_codes.zip)]
+1. <strong>Ye, H.</strong>, Yang, H.\*, 2013. Continuous price and flow dynamics of tradable mobility credits. **Transportation Research Part B** 57, 436-450, and **ISTTT20** (lectern), The Netherlands, 2013.
 
 
 ## Resources
