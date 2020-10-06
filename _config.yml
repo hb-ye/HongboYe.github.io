@@ -5,8 +5,6 @@ remote-theme: hawkjo/hawkjo.github.io
 #plugins:
 #  - jemoji
 
-orcid: 0000-0001-9446-8787
-researchgate: hongbo_ye
 google_scholar: https://scholar.google.com/citations?user=6LrbJcYAAAAJ
 
 locale                   : "en"
