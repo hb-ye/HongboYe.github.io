@@ -1,8 +1,9 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 title: Hongbo Ye
 description: Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University
-plugins:
-  - jemoji
+remote-theme: ravpacheco/takenet.github.io
+#plugins:
+#  - jemoji
   
 orcid: 0000-0001-9446-8787
 researchgate: hongbo_ye
