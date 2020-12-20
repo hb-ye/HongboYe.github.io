@@ -5,7 +5,7 @@ I have a broad spectrum of research interest in transport-related problems, with
 
 I am welcoming visiting students/scholars and PhD applications in the areas which fits my research interest and expertise. Please drop me an email if you are interested.
 
-More information on [University Webpage](http://www.ee.polyu.edu.hk) / [Google Scholar](https://scholar.google.com/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
+More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_detail.php?name=YE%20Hongbo&cid=1&id=26023) / [Google Scholar](https://scholar.google.com/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
 
 ## Contact
 
