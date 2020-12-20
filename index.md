@@ -17,7 +17,7 @@ Phone: +852 3400 3337
 
 <table style="width: 100%; border: none;">
   <colgroup>
-    <col style="width: 120px; border: none;">
+    <col style="width: 90px; border: none;">
     <col>
   </colgroup>
     
@@ -41,7 +41,7 @@ Phone: +852 3400 3337
 
 <table style="width: 100%; border: none;">
   <colgroup>
-    <col style="width: 120px; border: none;">
+    <col style="width: 90px; border: none;">
     <col>
   </colgroup>
     
@@ -59,7 +59,7 @@ Phone: +852 3400 3337
 
 <table style="width: 100%; border: none;">
   <colgroup>
-    <col style="width: 120px; border: none;">
+    <col style="width: 90px; border: none;">
     <col>
   </colgroup>
     
