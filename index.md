@@ -83,13 +83,13 @@ Phone: +852 3400 3337
 
 ## Research Interest
 
-Transportation network modeling, management and optimization
+- Transportation network modeling, management and optimization
 
-Day-to-day traffic flow dynamics
+- Day-to-day traffic flow dynamics
 
-Railway operation and control
+- Railway operation and control
 
-Eco-driving (trains and cars)
+- Eco-driving (trains and cars)
 
 ## Teaching
 
