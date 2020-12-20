@@ -15,12 +15,45 @@ Email: hongbo DOT ye AT polyu DOT edu DOT hk
 
 Phone: +852 3400 3337
 
+<table style="width: 100%; border: none;">
+  <colgroup>
+    <col style="width: 120px; border: none;">
+    <col>
+  </colgroup>
+    
+  <tr valign="top" style="border: none;">
+    <td style="border: none;"> Office: </td>
+    <td style="border: none;"> CF606, Department of Electrical Engineering, 6/F Tang Ping Yuan Building, Hong Kong Polytechnic University, Kowloon, Hong Kong </td>
+  </tr>
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> Email: </td>
+    <td style="border: none;"> hongbo DOT ye AT polyu DOT edu DOT hk </td>
+  </tr>
+  
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> Phone: </td>
+    <td style="border: none;"> +852 3400 3337 </td>
+  </tr>
+</table>
+
     
 ## Education
 
-2014, Ph.D. in Civil Engineering, Hong Kong University of Science and Technology (HKUST)
-
-2009, B.E. in Automation, University of Science and Technology of China (USTC)
+<table style="width: 100%; border: none;">
+  <colgroup>
+    <col style="width: 120px; border: none;">
+    <col>
+  </colgroup>
+    
+  <tr valign="top" style="border: none;">
+    <td style="border: none;"> 2014 </td>
+    <td style="border: none;"> Ph.D. in Civil Engineering, Hong Kong University of Science and Technology (HKUST) </td>
+  </tr>
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> 2009 </td>
+    <td style="border: none;"> B.E. in Automation, University of Science and Technology of China (USTC) </td>
+  </tr>
+</table>
 
 ## Work Experience
 
