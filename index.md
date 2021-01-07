@@ -7,6 +7,8 @@ I am welcoming visiting students/scholars and PhD applications in the areas whic
 
 More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_detail.php?name=YE%20Hongbo&cid=1&id=26023) / [Google Scholar](https://scholar.google.com/citations?user=6LrbJcYAAAAJ) / [Research Gate](https://www.researchgate.net/profile/Hongbo_Ye)
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9446-8787" href="https://orcid.org/0000-0001-9446-8787" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9446-8787</a></div>
+
 ## Contact
 
 <table style="width: 100%; border: none;">
