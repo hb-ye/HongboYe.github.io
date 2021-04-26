@@ -17,7 +17,7 @@ More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_de
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> Office: </td>
-    <td style="border: none;"> CF606, Department of Electrical Engineering, 6/F Tang Ping Yuan Building, Hong Kong Polytechnic University, Kowloon, Hong Kong </td>
+    <td style="border: none;"> CF606<br>Department of Electrical Engineering<br>6/F Tang Ping Yuan Building<br>Hong Kong Polytechnic University<br>Hung Hom, Kowloon, Hong Kong</td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
