@@ -106,7 +106,7 @@ More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_de
 
 {: reversed="reversed"}
 
-10. **Ye, H.**, Xiao, F.\*, Yang, H., 2021. Day-to-day dynamics with advanced traveler information. **Transportation Research Part B** 144, 23-44.
+10. **Ye, H.**, Xiao, F.\*, Yang, H., 2021. Day-to-day dynamics with advanced traveler information. **Transportation Research Part B** 144, 23-44. [[Author Accepted Manuscript](docs/2021YXY_AAM.pdf)]
 9. **Ye, H.**, Xiao, F.\*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. **Transportation Research Part C** 94, 220-235, and **ISTTT22** (poster), Illinois, USA, 2017.
 8. **Ye, H.**, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. **Transportation Science** 51 (3), 968-980. 
 7. **Ye, H.**, Liu, R.\*, 2017. Nonlinear programming methods based on closed-form expressions for optimal train control. **Transportation Research Part C** 82, 102-123. [[Codes of Case Studies](docs/2017YL_codes.zip)]
