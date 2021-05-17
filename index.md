@@ -17,7 +17,7 @@ More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_de
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> Office: </td>
-    <td style="border: none;"> CF606<br>Department of Electrical Engineering<br>6/F Tang Ping Yuan Building<br>Hong Kong Polytechnic University<br>Hung Hom, Kowloon, Hong Kong</td>
+    <td style="border: none;"> CF606, Department of Electrical Engineering<br>6/F Tang Ping Yuan Building<br>Hong Kong Polytechnic University<br>Hung Hom, Kowloon, Hong Kong</td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> Email: </td>
@@ -41,11 +41,11 @@ More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_de
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> 2014 </td>
-    <td style="border: none;"> Ph.D. in Civil Engineering, Hong Kong University of Science and Technology (HKUST) </td>
+    <td style="border: none;"> Ph.D. in Civil Engineering<br>Hong Kong University of Science and Technology (HKUST) </td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> 2009 </td>
-    <td style="border: none;"> B.E. in Automation, University of Science and Technology of China (USTC) </td>
+    <td style="border: none;"> B.E. in Automation<br>University of Science and Technology of China (USTC) </td>
   </tr>
 </table>
 
@@ -59,19 +59,19 @@ More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_de
     
   <tr valign="top" style="border: none;">
     <td style="border: none;"> 09/2020 - </td>
-    <td style="border: none;"> Research Assistant Professor, Department of Electrical Engineering, Hong Kong Polytechnic University </td>
+    <td style="border: none;"> Research Assistant Professor<br>Department of Electrical Engineering<br>Hong Kong Polytechnic University </td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style="border: none;"> 2018-2020 </td>
-    <td style="border: none;"> Lecturer, Department of Civil Engineering and Industrial Design, University of Liverpool </td>
+    <td style="border: none;"> Lecturer<br>Department of Civil Engineering and Industrial Design<br>University of Liverpool </td>
   </tr>
   <tr valign="top"  style=" border: none;">
     <td  style=" border: none;"> 2015-2018 </td>
-    <td style=" border: none;"> Research Fellow, Institute for Transport Studies, University of Leeds </td>
+    <td style=" border: none;"> Research Fellow<br>Institute for Transport Studies, University of Leeds </td>
   </tr>
   <tr valign="top" style=" border: none;">
     <td style=" border: none;"> 2014-2015 </td>
-    <td style=" border: none;"> Research Associate, Department of Civil and Environmental Engineering, Hong Kong University of Science and Technology </td>
+    <td style=" border: none;"> Research Associate<br>Hong Kong University of Science and Technology </td>
   </tr>
 </table>
 
@@ -90,6 +90,7 @@ More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_de
 - Hong Kong Polytechnic University
 
     * EE4014 Intelligent Systems Applications in Electrical Engineering
+    * EE514  Real Time Computing
 
 - University of Liverpool
     
@@ -105,7 +106,7 @@ More information on [University Webpage](http://www.ee.polyu.edu.hk/en/people_de
 ## Publications and Source Code
 
 {: reversed="reversed"}
-
+11. **Ye, H.**, 2021. On stochastic-user-equilibrium-based day-to-day dynamics. **Transportation Science** (forthcoming)
 10. **Ye, H.**, Xiao, F.\*, Yang, H., 2021. Day-to-day dynamics with advanced traveler information. **Transportation Research Part B** 144, 23-44. [[Author Accepted Manuscript](docs/2021YXY_AAM.pdf)]
 9. **Ye, H.**, Xiao, F.\*, Yang, H., 2018. Exploration of day-to-day route choice models by a virtual experiment. **Transportation Research Part C** 94, 220-235, and **ISTTT22** (poster), Illinois, USA, 2017.
 8. **Ye, H.**, Yang, H., 2017. Rational behavior adjustment process with boundedly rational user equilibrium. **Transportation Science** 51 (3), 968-980. 
