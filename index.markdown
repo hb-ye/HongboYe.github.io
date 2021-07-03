@@ -18,7 +18,7 @@ My [university page](http://www.ee.polyu.edu.hk/en/people_detail.php?name=YE%20H
 
 ## Contact
 
-<table style="font-size: 12px; width: 100%; border: none;">
+<table style="font-size: 16px; width: 100%; border: none;">
   <colgroup>
     <col style="width: 6px; border: none;">
     <col>
