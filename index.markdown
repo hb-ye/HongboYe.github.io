@@ -11,12 +11,9 @@ I am currently a **Research Assistant Professor** in the Department of Electrica
 
 I have a broad spectrum of research interest in transport-related problems, with an aim to improve the system efficiency and sustainability to benefit both the travellers and the operators.  I have utilized optimisation and control theory in the modelling and analysis of rail and road systems as well as their operation, management and control.
 
-I am welcoming visiting students/scholars and PhD applications in the areas that fit my research interest and expertise.
+**PhD** and **postdoc** positions are available. I am welcoming visiting students/scholars in the areas that fit my research interest and expertise.
 
-My [university page](http://www.ee.polyu.edu.hk/en/people_detail.php?name=YE%20Hongbo&cid=1&id=26023)
-
-
-## Contact
+### Contact
 
 <table style="font-size: 16px; width: 100%; border: none;">
   <colgroup>
@@ -37,10 +34,16 @@ My [university page](http://www.ee.polyu.edu.hk/en/people_detail.php?name=YE%20H
     <td style="border: none;"> Phone: </td>
     <td style="border: none;"> +852 3400 3337 </td>
   </tr>
+  
+  <tr valign="top" style=" border: none;">
+    <td style="border: none;"> Webpage: </td>
+    <td style="border: none;"> <a href="http://www.ee.polyu.edu.hk/en/people_detail.php?name=YE%20Hongbo&cid=1&id=26023"> My University Page </a> </td>
+  </tr>
+  
 </table>
 
 
-## Research Interest
+### Research Interest
 
 - Transportation network modeling, management and optimization
 
@@ -52,9 +55,9 @@ My [university page](http://www.ee.polyu.edu.hk/en/people_detail.php?name=YE%20H
 
 
     
-## Education
+### Education
 
-<table style="width: 100%; border: none;">
+<table style="font-size: 16px; width: 100%; border: none;">
   <colgroup>
     <col style="width: 60px; border: none;">
     <col>
@@ -70,11 +73,11 @@ My [university page](http://www.ee.polyu.edu.hk/en/people_detail.php?name=YE%20H
   </tr>
 </table>
 
-## Work Experience
+### Work Experience
 
-<table style="width: 100%; border: none;">
+<table style="font-size: 16px; width: 100%; border: none;">
   <colgroup>
-    <col style="width: 90px; border: none;">
+    <col style="width: 100px; border: none;">
     <col>
   </colgroup>
     
